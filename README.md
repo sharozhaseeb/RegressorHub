@@ -1,15 +1,12 @@
-#RegressorHub
+##RegressorHub
 RegressorHub is a Python package for running logistic and linear regression models.
 
+Next Steps
+Hyperparameter Tuning
+To improve the performance of your regression models, consider adding hyperparameter tuning. You can use libraries like scikit-learn's GridSearchCV or RandomizedSearchCV to search for the best hyperparameters automatically.
 
+Adding WandB Logs
+Integrate WandB (Weights and Biases) for comprehensive experiment tracking and visualization. You can log hyperparameters, model metrics, and other important information to gain insights into your regression experiments. To get started with WandB, follow their documentation at WandB Official Docs.
 
-
-##Next Steps
-Some ideas for improving RegressorHub:
-
--Add hyperparameter tuning (grid search, random search)
--Log training with Weights & Biases
--Add more regression models (ridge, lasso, elasticnet, etc)
--Containerize with Docker for easy deployment
-##Contributing
-Contributions to add more regression models or improve documentation are welcome! Please open an issue or submit a pull request.
+Contributing
+Contributions are welcome! Feel free to open issues, submit pull requests, or suggest improvements. Please review our Contributing Guidelines for more details on how to contribute to this project.
