@@ -5,3 +5,4 @@ RegressorHub is a Python package for running logistic and linear regression mode
 
 - Hyperparameter Tuning;
 - Adding WandB Logs;
+- Maybe a new learning rate?;
