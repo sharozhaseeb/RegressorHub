@@ -4,9 +4,9 @@ This repository contains IPython notebooks that demonstrate linear regression an
 
 ## Contents
 
-- `linear_regression.ipynb`: Implements linear regression to predict student performance scores. Covers data preprocessing, model training, evaluation, saving and loading.
+- `main.ipynb`: Implements linear regression and logistic regression to predict student performance scores. Covers data preprocessing, model training, evaluation, saving and loading.
 
-- `logistic_regression.ipynb`: Implements logistic regression to predict heart disease risk. Covers data preprocessing, model training, evaluation, saving and loading. 
+- `automl_main.ipynb`: Implements auto-sklearn to perform model training and inference. 
 
 ## Usage
 
